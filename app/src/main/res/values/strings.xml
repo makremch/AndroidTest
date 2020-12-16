@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login Task</string>
+    <string name="login_name">Login</string>
+    <string name="signup_name">Sign up</string>
+    <string name="email_name">Email address</string>
+    <string name="user_name">Username</string>
+    <string name="password_name">Password</string>
+    <string name="dont_name">Don\'t have an account? </string>
+    <string name="already_name"> Already have an account? </string>
+    <string name="welcome">Welcome </string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="to">TO</string>
+    <string name="login_info">Login to report and be aware of the crimes happening in your locality and beyond</string>
+    <string name="signup_info">Sign up now to contribute to the safety and security in your locale</string>
+</resources>
